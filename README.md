@@ -1,2 +1,2 @@
-# react-boilerplate
-Bare-bones starter project with React (create-react-app) and Typescript
+# nextjs-boilerplate
+Bare-bones starter project with NextJs and Typescript
